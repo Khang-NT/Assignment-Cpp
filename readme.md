@@ -18,8 +18,3 @@
 	+ Bla bla 
 * Customer:
 	+ Bla bla
-	
-	
-- And if you have sub points, put two spaces before the dash or star:
-   - Like this
-   - And this
