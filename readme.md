@@ -13,6 +13,6 @@
 		* Bla bla
 	+ Manager:
 		* Manage items, customer require,...
-		* Bla bla
+		* Bla bla 
 	+ Customer:
 		* Bla bla
